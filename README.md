@@ -2,8 +2,8 @@
 [![Travis][build-badge]][build]
 
 
-[build-badge]: https://img.shields.io/travis/tomasmor42/basic_todo_list/master.png?style=flat-square
-[build]: https://travis-ci.org/tomasmor42/basic_todo_list
+[build-badge]: https://img.shields.io/travis/dfpetrov/dfpetrovsfe1/master.png?style=flat-square
+[build]: https://travis-ci.org/dfpetrov/dfpetrovsfe1
 
 Basic Flask-Based to-do application. 
 How to start:
